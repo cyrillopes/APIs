@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "62d9d0c0a912283dc1f39be2"
+  },
+  "categories": [
+    {
+      "category_id": 1,
+      "category": "gifts"
+    },
+    {
+      "category_id": 2,
+      "category": "toys"
+    },
+    {
+      "category_id": 3,
+      "category": "accessories"
+    },
+    {
+      "category_id": 4,
+      "category": "furniture"
+    }
+  ]
+}]

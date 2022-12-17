@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a276"
+  },
+  "id": 1,
+  "category_id": 2,
+  "category": "toys",
+  "item_name": "Barkbutler™ : Aly-The-Gator Stuffed Dog Toy",
+  "prev_price": "999.00",
+  "price": "749.00",
+  "discount": "save 21%",
+  "img_url": "https://i.ibb.co/DRXq5qT/1-c9a9d584-bb42-4df0-b7b8-239c48940d0b-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27c"
+  },
+  "id": 13,
+  "category_id": 1,
+  "category": "gifts",
+  "item_name": "Custom Pet Printed T-shirt",
+  "prev_price": "1299.00",
+  "price": "999.00",
+  "discount": "save 2%",
+  "img_url": "https://i.ibb.co/hxN8GP2/01withgirl-Oil-Paint-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a281"
+  },
+  "id": 18,
+  "category_id": 3,
+  "category": "accessories",
+  "item_name": "FOFOS™: Comfort 2 in 1 Tunnel & Carrier Grey",
+  "prev_price": "3999.00",
+  "price": "3800.00",
+  "discount": "save 5%",
+  "img_url": "https://i.ibb.co/PrWYdNg/foca00tugr-fofos-original-imag7gxj6vavfpgm.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27a"
+  },
+  "id": 11,
+  "category_id": 1,
+  "category": "gifts",
+  "item_name": "Custom Pet PAWtrait - Canvas",
+  "prev_price": "1799.00",
+  "price": "1749.00",
+  "discount": "save 2%",
+  "img_url": "https://i.ibb.co/x1sZ2vN/canvas-3-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a282"
+  },
+  "id": 25,
+  "category_id": 4,
+  "category": "furniture",
+  "item_name": "FOFOS™: Dogily Racoa Dog Sofa",
+  "prev_price": "26999.00",
+  "price": "18999.00",
+  "discount": "save 30%",
+  "img_url": "https://i.ibb.co/7bjy468/Cora-Dog-Sofa-8-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a280"
+  },
+  "id": 17,
+  "category_id": 3,
+  "category": "accessories",
+  "item_name": "FOFOS™: Backpack Carrier-Pink",
+  "prev_price": "3999.00",
+  "price": "3200.00",
+  "discount": "save 15%",
+  "img_url": "https://i.ibb.co/SyMCnw2/41-Nl8-En-TEL-SS200.jpg"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27e"
+  },
+  "id": 15,
+  "category_id": 3,
+  "category": "accessories",
+  "item_name": "FOFOS™: Fold away Carrier with White and Blue Stripes",
+  "prev_price": "3999.00",
+  "price": "3400.00",
+  "discount": "save 15%",
+  "img_url": "https://i.ibb.co/zN8pTPs/foca00f0bl-1-fofos-original-imag6ujnex7dbn7g.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a285"
+  },
+  "id": 28,
+  "category_id": 4,
+  "category": "furniture",
+  "item_name": "FOFOS™: Dogily Angel Dog Sofa Large",
+  "prev_price": "24999.00",
+  "price": "19999.00",
+  "discount": "save 23%",
+  "img_url": "https://i.ibb.co/drN9KxJ/Angeline-Dog-Sofa-1800x1800.jpg"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a278"
+  },
+  "id": 3,
+  "category_id": 2,
+  "category": "toys",
+  "item_name": "Fofos™: Born Wild Ball Toy",
+  "prev_price": "550.00",
+  "price": "380.00",
+  "discount": "save 19%",
+  "img_url": "https://i.ibb.co/CB0wWbQ/Canvaballorannge1-4-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a279"
+  },
+  "id": 4,
+  "category_id": 2,
+  "category": "toys",
+  "item_name": "Fofos™: Latex Bi Toy Cat (Chewing Monster)",
+  "prev_price": "500.00",
+  "price": "390.00",
+  "discount": "save 22%",
+  "img_url": "https://i.ibb.co/0F9P0q0/Canvalatexcat3-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a277"
+  },
+  "id": 2,
+  "category_id": 2,
+  "category": "toys",
+  "item_name": "BarkButler™ : Pookie-The-Dragon Plush Dog toy",
+  "prev_price": "999.00",
+  "price": "799.00",
+  "discount": "save 21%",
+  "img_url": "https://i.ibb.co/Z64zSxL/canvadragon-2-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27d"
+  },
+  "id": 14,
+  "category_id": 1,
+  "category": "gifts",
+  "item_name": "Custom Pet Printed Hoodies",
+  "prev_price": "1299.00",
+  "price": "999.00",
+  "discount": "save 2%",
+  "img_url": "https://i.ibb.co/hxN8GP2/01withgirl-Oil-Paint-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a283"
+  },
+  "id": 26,
+  "category_id": 4,
+  "category": "furniture",
+  "item_name": "FOFOS™: Dogily Dassic Dog Sofa",
+  "prev_price": "14999.00",
+  "price": "12999.00",
+  "discount": "save 10%",
+  "img_url": "https://i.ibb.co/yN876XM/Dassic-1800x1800.jpg"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27b"
+  },
+  "id": 12,
+  "category_id": 1,
+  "category": "gifts",
+  "item_name": "Custom Pet PAWtrait Poster - Framed",
+  "prev_price": "1599.00",
+  "price": "1249.00",
+  "discount": "save 2%",
+  "img_url": "https://i.ibb.co/r28tcR2/poster-1-5c843b91-0002-4294-aa73-a1b0ed8234e0-1800x1800.webp"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a27f"
+  },
+  "id": 16,
+  "category_id": 3,
+  "category": "accessories",
+  "item_name": "FOFOS™: Backpack Carrier - Grey",
+  "prev_price": "3999.00",
+  "price": "3200.00",
+  "discount": "save 15%",
+  "img_url": "https://i.ibb.co/84ddWbW/71-AGr-Hx-Vj-LL-SX522.jpg"
+},{
+  "_id": {
+    "$oid": "62da8a99835c8c799ac6a284"
+  },
+  "id": 27,
+  "category_id": 4,
+  "category": "furniture",
+  "item_name": "FOFOS™: Dogily Titse Dog Sofa",
+  "prev_price": "21999.00",
+  "price": "16999.00",
+  "discount": "save 23%",
+  "img_url": "https://i.ibb.co/W656Skv/Tiste-2-1800x1800.jpg"
+}]
